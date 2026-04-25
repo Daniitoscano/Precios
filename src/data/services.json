@@ -14,18 +14,6 @@
       ]
     },
     {
-      "id": 85,
-      "name": "Manicura gratis",
-      "items": [
-        {
-          "id": "f1",
-          "name": "Manicura Rusa",
-          "price": 150,
-          "quantity": 1
-        }
-      ]
-    },
-    {
       "id": 1,
       "name": "Esmaltado",
       "items": [
