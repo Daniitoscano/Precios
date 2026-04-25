@@ -19,14 +19,14 @@
       "items": [
         {
           "id": "a1",
-          "name": "Esmaltado Engel",
-          "price": 150,
+          "name": "Gel Semipermanente",
+          "price": 160,
           "quantity": 1
         },
         {
           "id": "a2",
           "name": "Esmaltado Frances",
-          "price": 210,
+          "price": 250,
           "quantity": 1
         }
       ]
@@ -38,13 +38,13 @@
         {
           "id": "b1",
           "name": "Nivelacion (Rubber)",
-          "price": 180,
+          "price": 200,
           "quantity": 1
         },
         {
           "id": "b2",
           "name": "Rubber + Esmaltado",
-          "price": 300,
+          "price": 330,
           "quantity": 1
         }
       ]
@@ -56,12 +56,6 @@
         {
           "id": "c1",
           "name": "Soft Gel",
-          "price": 250,
-          "quantity": 1
-        },
-        {
-          "id": "c2",
-          "name": "Tecnica Hibrida",
           "price": 350,
           "quantity": 1
         }
@@ -74,7 +68,7 @@
         {
           "id": "d1",
           "name": "Retiro de Gel",
-          "price": 30,
+          "price": 50,
           "quantity": 1
         },
         {
@@ -92,13 +86,13 @@
         {
           "id": "e1",
           "name": "Baby Boomer",
-          "price": 5,
+          "price": 10,
           "quantity": 1
         },
         {
           "id": "e2",
           "name": "Efecto Aura",
-          "price": 5,
+          "price": 10,
           "quantity": 1
         },
         {
@@ -134,7 +128,7 @@
         {
           "id": "e8",
           "name": "Efecto Cromo",
-          "price": 5,
+          "price": 10,
           "quantity": 1
         },
         {
@@ -158,7 +152,37 @@
         {
           "id": "e12",
           "name": "3D Flores",
-          "price": 25,
+          "price": 30,
+          "quantity": 1
+        },
+        {
+          "id": "e13",
+          "name": "Ojo de Gato",
+          "price": 10,
+          "quantity": 1
+        },
+        {
+          "id": "e14",
+          "name": "Poltka",
+          "price": 10,
+          "quantity": 1
+        },
+        {
+          "id": "e15",
+          "name": "Carey",
+          "price": 20,
+          "quantity": 1
+        },
+        {
+          "id": "e16",
+          "name": "Frances",
+          "price": 10,
+          "quantity": 1
+        },
+        {
+          "id": "e17",
+          "name": "Gel Color",
+          "price": 10,
           "quantity": 1
         }
       ]
